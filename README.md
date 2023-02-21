@@ -18,14 +18,19 @@ Here are some of the languages and tools that I'm proficient in:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
+
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/office/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/hygraph.png"/>
 </p>
 
 ## Projects
 I have created beautiful, user-friendly, and responsive websites that cater to the users' needs. Some of my notable projects include:
 
 Erthoo - An e-commerce website for selling shoes with a variety of features and a smooth and beautiful UI.
+
 Keeper App - A simple and easy-to-use notes keeping app.
+
 Fitness Dashboard - An interactive dashboard for a fitness app.
+
 AgriZone - An e-commerce website for selling agricultural products.
 
 ## Contact
