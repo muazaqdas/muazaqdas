@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there I am Muaz 👋
 
-I'm a web developer and problem solver currently studying at Delhi Technological University. I'm well-versed in data structures and algorithms in C++ language and have worked with a variety of web development tools, including Bootstrap, Tailwind, JavaScript, React, Node.js, MySQL, and Hygraph. My skills also extend to UI/UX design, and I'm familiar with Figma and Adobe XD.
+* I'm a web developer and problem solver 
+* Currently studying at Delhi Technological University. 
+* I'm well-versed in data structures and algorithms in C++ language.
 
 ### This is my portfolio website
 
