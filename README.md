@@ -7,7 +7,7 @@ I'm a web developer and problem solver currently studying at Delhi Technological
 https://muaz-portfolio.netlify.app/
 
 
-
+<p dir="auto" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazaqdas"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muazaqdas&theme=solarized)
@@ -20,6 +20,7 @@ https://muaz-portfolio.netlify.app/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muazaqdas&theme=solarized&utcOffset=8)
 
+</p>
 
 ### Languages and tools:
 I've worked with a variety of tools, including:
