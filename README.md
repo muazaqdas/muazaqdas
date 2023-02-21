@@ -9,6 +9,8 @@ https://muaz-portfolio.netlify.app/
 ### Languages andn tools:
 I've worked with a variety of web development tools, including:
 
+<p display: flex;
+  align-items: center; align="center" >
 C: <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg">
 C++: <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg">
 HTML: <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -22,7 +24,7 @@ Firebase: <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg
 R Programming Language: <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
 NumPy: <img src="https://numpy.org/images/logos/numpy.svg">
 Pandas: <img src="https://pandas.pydata.org/static/img/pandas_white.svg">
-
+</p>
 
 
 I specialize in creating beautiful, user-friendly, and responsive websites that cater to the needs of the end-users. I've created a number of websites and web applications using the tools listed above, and I'm always excited to learn new languages and tools that will help me improve my craft.
