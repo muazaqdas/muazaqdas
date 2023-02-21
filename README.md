@@ -24,7 +24,7 @@ I've worked with a variety of web development tools, including:
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img width={30} height={30} src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 </p>
 
 I specialize in creating beautiful, user-friendly, and responsive websites that cater to the needs of the end-users. I've created a number of websites and web applications using the tools listed above, and I'm always excited to learn new languages and tools that will help me improve my craft.
