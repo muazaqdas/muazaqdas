@@ -42,6 +42,9 @@ When I'm not coding, you can usually find me exploring the latest tech trends, l
 * Hygraph
 * UI/UX design (Figma, Adobe XD)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
+
+![summary](https://raw.githubusercontent.com/muazaqdas/muazaqdas/master/profile-summary-card-output/default/0-profile-details.svg)
 
 ## Projects
 
@@ -61,7 +64,7 @@ I have created beautiful, user-friendly, and responsive websites that cater to t
 
 [AgriZone][agrizone-link] - An e-commerce website for selling agricultural products.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
+
 
 
 ## Contact
