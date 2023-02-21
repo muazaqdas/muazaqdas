@@ -10,22 +10,21 @@ https://muaz-portfolio.netlify.app/
 I've worked with a variety of web development tools, including:
 
 <p align="center" >
-C: <img src="https://www.cprogramming.com/">
-C++: <img src="https://www.w3schools.com/cpp/">
-HTML: <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-CSS: <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-React: <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-Python: <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-Bootstrap: <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-Material UI: <img src="https://mui.com/">
-Tailwind: <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-Git: <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-Firebase: <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-R Programming Language: <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
-NumPy: <img src="https://numpy.org/">
-Pandas: <img src="https://pandas.pydata.org/">
+<img src="https://icons8.com/icon/40670/c-programming">
+<img src="https://icons8.com/icon/40669/c%2B%2B">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+<img src="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui/">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
+<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy">
+<img src="https://icons8.com/icon/xSkewUSqtErH/pandas">
 </p>
-
 
 I specialize in creating beautiful, user-friendly, and responsive websites that cater to the needs of the end-users. I've created a number of websites and web applications using the tools listed above, and I'm always excited to learn new languages and tools that will help me improve my craft.
 
