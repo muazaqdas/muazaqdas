@@ -42,10 +42,12 @@ When I'm not coding, you can usually find me exploring the latest tech trends, l
 * Hygraph
 * UI/UX design (Figma, Adobe XD)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muazaqdas&theme=default) -->
 ![Muaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muazaqdas&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muazaqdas&theme=default) -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muazaqdas"/>
 
 ## Projects
 
