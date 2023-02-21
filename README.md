@@ -11,20 +11,20 @@ I've worked with a variety of web development tools, including:
 
 <p align="center" >
 
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img height=80 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img height=80 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-<img height=80 src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img width=80 height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+<img height=40 width=40 src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
+<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 </p>
 
 I specialize in creating beautiful, user-friendly, and responsive websites that cater to the needs of the end-users. I've created a number of websites and web applications using the tools listed above, and I'm always excited to learn new languages and tools that will help me improve my craft.
