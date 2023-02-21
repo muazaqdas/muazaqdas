@@ -4,7 +4,7 @@ I'm a web developer and problem solver with a passion for building beautiful, us
 ## Skills
 Here are some of the technologies and programming languages I'm proficient in:
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript logo" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" />
