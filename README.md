@@ -7,8 +7,6 @@ I'm a web developer and problem solver currently studying at Delhi Technological
 https://muaz-portfolio.netlify.app/
 
 
-<div align="center>
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazaqdas"/>
 
@@ -16,7 +14,6 @@ https://muaz-portfolio.netlify.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
 
-</div>
 
 ### Languages and tools:
 I've worked with a variety of tools, including:
