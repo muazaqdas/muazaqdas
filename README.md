@@ -9,7 +9,21 @@ https://muaz-portfolio.netlify.app/
 ### Languages andn tools:
 I've worked with a variety of web development tools, including:
 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/office/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/hygraph.png"/> <img src="https://img.icons8.com/fluency/48/000000/figma.png"/> <img src="https://img.icons8.com/fluency/48/000000/adobe-xd.png"/>
+C: <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg">
+C++: <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg">
+HTML: <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+CSS: <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+React: <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+Python: <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+Bootstrap Material UI: <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+Tailwind: <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+Git: <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+Firebase: <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+R Programming Language: <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
+NumPy: <img src="https://numpy.org/images/logos/numpy.svg">
+Pandas: <img src="https://pandas.pydata.org/static/img/pandas_white.svg">
+
+
 
 I specialize in creating beautiful, user-friendly, and responsive websites that cater to the needs of the end-users. I've created a number of websites and web applications using the tools listed above, and I'm always excited to learn new languages and tools that will help me improve my craft.
 
