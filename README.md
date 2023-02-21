@@ -6,8 +6,8 @@ I'm a web developer and problem solver currently studying at Delhi Technological
 
 https://muaz-portfolio.netlify.app/
 
-### Languages andn tools:
-I've worked with a variety of web development tools, including:
+### Languages and tools:
+I've worked with a variety of tools, including:
 
 <p align="center" >
 
@@ -47,13 +47,19 @@ When I'm not coding, you can usually find me exploring the latest tech trends, l
 
 I have created beautiful, user-friendly, and responsive websites that cater to the users' needs. Some of my notable projects include:
 
-Erthoo - An e-commerce website for selling shoes with a variety of features and a smooth and beautiful UI.
 
-Keeper App - A simple and easy-to-use notes keeping app.
+[erthoo-link]: https://erthoo-webapp.vercel.app/
+[agrizone-link]: https://erthoo-webapp.vercel.app/
+[keeper-link]: https://note-keepers.netlify.app/
+[fitnessDashboard-link]: https://fitness-app-dashboard.netlify.app/
 
-Fitness Dashboard - An interactive dashboard for a fitness app.
+[Erthoo][erthoo-link]- An e-commerce website for selling shoes with a variety of features and a smooth and beautiful UI.
 
-AgriZone - An e-commerce website for selling agricultural products.
+[Keeper App][keeper-link] - A simple and easy-to-use notes keeping app.
+
+[Fitness Dashboard][fitnessDashboard-link] - An interactive dashboard for a fitness app.
+
+[AgriZone][agrizone-link] - An e-commerce website for selling agricultural products.
 
 ## Contact
 
