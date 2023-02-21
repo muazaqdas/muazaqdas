@@ -8,17 +8,12 @@ https://muaz-portfolio.netlify.app/
 
 
 <p dir="auto" align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazaqdas"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muazaqdas&theme=solarized)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muazaqdas&theme=solarized)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muazaqdas&theme=solarized)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muazaqdas&theme=solarized)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muazaqdas&theme=solarized&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muazaqdas&theme=solarized&utcOffset=8)
 
 </p>
 
