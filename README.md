@@ -4,11 +4,6 @@
 * Currently studying at Delhi Technological University. 
 * I'm well-versed in data structures and algorithms in C++ language.
 
-### This is my portfolio website
-
-https://muaz-portfolio.netlify.app/
-
-
 <p dir="auto" align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazaqdas"/>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muazaqdas&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muazaqdas&theme=solarized&utcOffset=8)
@@ -39,6 +34,10 @@ I've worked with a variety of tools, including:
 I specialize in creating beautiful, user-friendly, and responsive websites that cater to the needs of the end-users. I've created a number of websites and web applications using the tools listed above, and I'm always excited to learn new languages and tools that will help me improve my craft.
 
 When I'm not coding, you can usually find me exploring the latest tech trends, listening to music, or practicing my photography skills. I'm passionate about using technology to make a positive impact on the world, and I'm always looking for new opportunities to collaborate on projects that align with my values.
+
+### My Portfolio Website
+
+https://muaz-portfolio.netlify.app/
 
 ### Skills
 * C++
