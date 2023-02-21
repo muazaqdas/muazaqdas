@@ -44,7 +44,8 @@ When I'm not coding, you can usually find me exploring the latest tech trends, l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
 
-![summary](https://raw.githubusercontent.com/muazaqdas/muazaqdas/master/profile-summary-card-output/default/0-profile-details.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muazaqdas&theme=default)
+
 
 ## Projects
 
