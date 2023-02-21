@@ -61,6 +61,9 @@ I have created beautiful, user-friendly, and responsive websites that cater to t
 
 [AgriZone][agrizone-link] - An e-commerce website for selling agricultural products.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazaqdas&layout=compact)](https://github.com/muazaqdas/github-readme-stats)
+
+
 ## Contact
 
 Feel free to reach out to me on LinkedIn or via email.
