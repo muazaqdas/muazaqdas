@@ -2,7 +2,7 @@
 
 * I'm a web developer and problem solver 
 * Currently studying at Delhi Technological University. 
-* I'm well-versed in data structures and algorithms in C++ language.
+* I'm well-versed in data structures and algorithms in C++.
 
 <p dir="auto" align="center">
 
